@@ -1,0 +1,3 @@
+ecrire(Vrai);
+ecrire(x == 3);
+ecrire(non Faux);

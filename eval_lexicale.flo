@@ -1,0 +1,5 @@
+	entier res = 0;
+	entier entier2 = 2;
+	si (entier1 >= entier2){
+		res = entier1;
+	}
